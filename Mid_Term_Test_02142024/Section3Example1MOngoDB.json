@@ -1,0 +1,17 @@
+{
+  "_id": ObjectId("60900a3f0fd9ff01c86c7a7a"),
+  "username": "Priya_Pari",
+  "name": "Priya Pari",
+  "age": 35,
+  "email": "Priya@pari.com",
+  "purchases": [
+    {
+      "product": "Pixel",
+      "price": 599.99
+    },
+    {
+      "product": "Mac",
+      "price": 1299.99
+    }
+  ]
+}

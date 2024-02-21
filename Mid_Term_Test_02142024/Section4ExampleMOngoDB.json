@@ -1,0 +1,8 @@
+// Collection: Products
+{
+  "_id": ObjectId("60900a3f0fd9ff01c86c7a7a"),
+  "name": "Laptop",
+  "price": 999.99,
+  "description": "High-performance laptop",
+  "category": "Electronics"
+}
